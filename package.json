@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/gagnedan/express-oracle/issues"
   },
-  "homepage": "https://github.com/gagnedan/express-oracle#readme"
+  "homepage": "https://github.com/gagnedan/express-oracle#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
 }
